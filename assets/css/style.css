@@ -55,7 +55,7 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-    /*User stylesheet agent css*/
+    /*user agent stylesheet*/
     display: block;
     text-align: -webkit-center;
 }
@@ -114,6 +114,8 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    /*user agent stylesheet*/
+    display: block;
 }
 
 /*Combining ".search-engine-optimization img, .online-reputation-management img, .social-media-marketing img together because they have the same elements*/
