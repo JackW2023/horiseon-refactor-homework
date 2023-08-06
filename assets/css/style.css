@@ -55,7 +55,7 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-    /*user agent stylesheet*/
+    /*user agent stylesheets*/
     display: block;
     text-align: -webkit-center;
 }
@@ -87,7 +87,7 @@ p {
     background-color: #2589bd;
 }
 
-/*Combining "benfits lead, brand, cost together" because they have the same elements*/
+/*Combining "benefits lead, brand, cost together" because they have the same elements*/
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -95,13 +95,13 @@ p {
     display: block;
 }
 
-/*Combining "benfits lead, brand, cost h3s" together because they have the same elements*/
+/*Combining "benefits lead, brand, cost h3s" together because they have the same elements*/
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/*Combining "benfits lead, brand, cost img" together because they have the same elements*/
+/*Combining "benefits lead, brand, cost img" together because they have the same elements*/
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
@@ -116,7 +116,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-    /*user agent stylesheet*/
+    /*user agent stylesheets*/
     display: block;
 }
 
