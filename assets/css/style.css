@@ -97,12 +97,14 @@ p {
 }
 
 /*Combining "benefits lead, brand, cost h3s" together because they have the same elements*/
+/*Combining "benefit-lead, benefit-brand, benefit-cost h3's together to enable duplicating effect instead of targeting multi-element*/
 .benefit-brand-cost-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
 /*Combining "benefits lead, brand, cost img" together because they have the same elements*/
+/*Combining "benefit-lead, benefit-brand, benefit-cost img's together to enable duplicating effect instead of targeting multi-element*/
 .benefit-brand-cost-lead img {
     display: block;
     margin: 10px auto;
@@ -110,6 +112,7 @@ p {
 }
 
 /*Combining ".search-engine-optimization, .online-reputation-management, .social-media-marketing together because they have the same elements*/
+/*Disregarding further optimization for future references on how to use CSS targeting multi-class element*/
 .search-engine-optimization, .online-reputation-management, .social-media-marketing  {
     margin-bottom: 20px;
     padding: 50px;
@@ -122,11 +125,13 @@ p {
 }
 
 /*Combining ".search-engine-optimization img, .online-reputation-management img, .social-media-marketing img together because they have the same elements*/
+/*Disregarding further optimization for future references on how to use CSS targeting multi-class element*/
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
 
 /*Combining ".search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 together because they have the same elements*/
+/*Disregarding further optimization for future references on how to use CSS targeting multi-class element*/
 .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
