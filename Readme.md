@@ -3,7 +3,7 @@
 
 ## Description
 
-This is a project that need me to optimized a website name Horiseon for search engines
+This is a project that need me to optimized a website named Horiseon for search engines
 
 - Motivation:
     By learning how to optimize a beginner website allows me to practice on my CSS as well as HTML skills
