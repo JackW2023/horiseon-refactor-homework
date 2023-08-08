@@ -29,7 +29,7 @@ This project would serve as a guideline for future projects and working experien
 
 ## Credits
 
-- Coding Boot Camp's instructors and my classmate
+- Coding Boot Camp's instructors, TA and my classmate
 - Study groups members
 - Quinton from AskBCS
 - Keegan from AskBCS
