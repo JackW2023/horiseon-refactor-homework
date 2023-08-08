@@ -126,6 +126,7 @@ p {
 
 /*Combining ".search-engine-optimization img, .online-reputation-management img, .social-media-marketing img together because they have the same elements*/
 /*Disregarding further optimization for future references on how to use CSS targeting multi-class element*/
+/*Multi-class element targeting would be easier to make any adjustment to specific in the future*/
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
