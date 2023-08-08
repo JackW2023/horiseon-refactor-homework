@@ -32,4 +32,5 @@ This project would serve as a guideline for future projects and working experien
 - Coding Boot Camp's instructors and my classmate
 - Study groups members
 - Quinton from AskBCS
+- Keegan from AskBCS
 
